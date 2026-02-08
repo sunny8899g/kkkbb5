@@ -1,14 +1,5 @@
 # NAME: Global
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-02 02:09:55
-# HOST: 663
-# HOST-KEYWORD: 36
-# HOST-SUFFIX: 32660
-# IP-CIDR: 112
-# IP6-CIDR: 4
-# USER-AGENT: 46
-# TOTAL: 33521
+
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
