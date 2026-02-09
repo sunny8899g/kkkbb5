@@ -2528,14 +2528,7 @@ HOST-SUFFIX,applefruity.com,Global
 HOST-SUFFIX,applehealth.com.hk,Global
 HOST-SUFFIX,applehongkong.com,Global
 HOST-SUFFIX,applehongkong.com.hk,Global
-HOST-SUFFIX,appleid-applemx.com,Global
-HOST-SUFFIX,appleid-applemx.us,Global
-HOST-SUFFIX,appleid-iclou.com,Global
-HOST-SUFFIX,appleid-uk.us,Global
-HOST-SUFFIX,appleid.berlin,Global
-HOST-SUFFIX,appleid.com,Global
-HOST-SUFFIX,appleid.hamburg,Global
-HOST-SUFFIX,appleid.hk,Global
+
 HOST-SUFFIX,appleimac.com,Global
 HOST-SUFFIX,appleinclegal.com,Global
 HOST-SUFFIX,appleinsider.com,Global
@@ -16324,7 +16317,7 @@ HOST-SUFFIX,myaccountglobalcash.com,Global
 HOST-SUFFIX,myamateurgirls.net,Global
 HOST-SUFFIX,myamateurtv.com,Global
 HOST-SUFFIX,myanmar-porn.com,Global
-HOST-SUFFIX,myappleid.com,Global
+
 HOST-SUFFIX,myatos.net,Global
 HOST-SUFFIX,myautocad.com,Global
 HOST-SUFFIX,myautodeskbenefits.com,Global
